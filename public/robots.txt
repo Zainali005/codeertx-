@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://xecutors.com
+
+# Sitemaps
+Sitemap: https://xecutors.com/sitemap.xml
